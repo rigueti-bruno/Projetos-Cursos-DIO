@@ -1,0 +1,1 @@
+A ferramenta classifica o jogador conforme o saldo entre vitórias e derrotas que ele obtém nas partidas.
